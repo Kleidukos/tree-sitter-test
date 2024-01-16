@@ -1,0 +1,11 @@
+================
+Case expressions
+================
+
+case x of
+  | True -> False
+  | Fase -> True
+
+---
+
+()
